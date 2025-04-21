@@ -1,5 +1,5 @@
 <h1>CodeHS Automation</h1>
-<h3>Basic Tampermonkey cheat for CodeHS that automatically (attempts) to complete lessons. Made this last year but never really finished it.</h3>
+<h3>Basic Tampermonkey cheat for CodeHS that automatically (attempts) to complete lessons. Made this last year but never really finished it. Use <a href="https://github.com/Aureliustics/CodeHS-Plus" target="_blank">CodeHS+</a> instead.</h3>
 
 <h1>Installation</h1>
 <ul>
